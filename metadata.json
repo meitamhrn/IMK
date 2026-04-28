@@ -1,0 +1,10 @@
+{
+  "name": "FireWatch IoT Monitoring",
+  "description": "Sistem pemantauan kebakaran dalam ruangan berbasis IoT dengan deteksi CNN real-time, visualisasi GIS, dan manajemen perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "IoT Monitoring",
+    "Real-time Alerts",
+    "GIS Visualization"
+  ]
+}
